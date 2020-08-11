@@ -1,3 +1,4 @@
-board = Array[9, " "]
+board = Array
+Array 
 
 
